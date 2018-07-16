@@ -2,5 +2,5 @@
 
 using ensemble techniques namely
 
-Isolation Forest Alogorithm
-Random Forest Algorithm
+1.Isolation Forest Alogorithm     
+2.Random Forest Algorithm
