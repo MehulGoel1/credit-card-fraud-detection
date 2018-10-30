@@ -397,7 +397,7 @@ print(df)
 
 # In[15]:
 
-dataset = pd.read_csv("E:/from Kaggle/creditcard.csv")
+dataset = pd.read_csv("D:/kaggle/creditcard.csv")
 dataset.head()
 
 
